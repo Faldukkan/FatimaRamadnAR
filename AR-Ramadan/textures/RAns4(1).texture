@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "RAns4(1)",
+  "identifier": "texture:306756-c9822736-f060-492f-8aae-6024d4929742",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2dc23d47069008acc6b3752ecdcecffc",
+  "assetLocator": "textures/RAns4(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 452,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2dc23d47069008acc6b3752ecdcecffc",
+      "colorCount": 1185,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.7680579296753612,
+      "pixelsHigh": 1024,
+      "pixelsWide": 452
+    }
+  ]
+}

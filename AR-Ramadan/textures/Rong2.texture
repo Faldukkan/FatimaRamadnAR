@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Rong2",
+  "identifier": "texture:307198-c9822736-f060-492f-8aae-6024d4929742",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1a37e94a4b11238d2fb7658f0a355709",
+  "assetLocator": "textures/Rong2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 499,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1a37e94a4b11238d2fb7658f0a355709",
+      "colorCount": 1122,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.6394035764680849,
+      "pixelsHigh": 1024,
+      "pixelsWide": 499
+    }
+  ]
+}
